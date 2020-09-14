@@ -201,3 +201,5 @@ C:\repos\umbracoforms\umbracoforms\obj\Debug\umbracoforms.csproj.CoreCompileInpu
 C:\repos\umbracoforms\umbracoforms\obj\Debug\umbracoforms.csproj.CopyComplete
 C:\repos\umbracoforms\umbracoforms\obj\Debug\umbracoforms.dll
 C:\repos\umbracoforms\umbracoforms\obj\Debug\umbracoforms.pdb
+C:\repos\UmbracoFormsLab\obj\Debug\umbracoforms.dll
+C:\repos\UmbracoFormsLab\obj\Debug\umbracoforms.pdb
