@@ -1,0 +1,18 @@
+{
+  "id": "67c11a94-1158-4d05-9f1a-9a053ba68fb0",
+  "name": "Send template email to albin.ljunghusen@isotop.se",
+  "form": "810e98c6-c662-4e16-a811-7220a3c699c6",
+  "active": true,
+  "includeSensitiveData": "False",
+  "workflowTypeId": "17c61629-d984-4e86-b43b-a8407b3efea9",
+  "executesOn": "Submitted",
+  "settings": {
+    "Email": "albin.ljunghusen@isotop.se",
+    "SenderEmail": "",
+    "ReplyToEmail": "",
+    "Subject": "The Form '{form_name}' was submitted",
+    "RazorViewFilePath": "Forms/Emails/Example-Template.cshtml",
+    "Attachment": ""
+  },
+  "sortOrder": 1
+}
